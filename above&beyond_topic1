@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="A web page about IoT Applications" />
+    <meta name="author" content="HARSHITA" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <title>IoT Applications</title>
+  </head>
+  <body> 
+    <div class="one">
+      <h1>IOT APPLICATIONS</h1>
+    </div>
+    <div class="two">
+      <div class="column left">
+        <h2>Introduction</h2>
+        <img src="my.jpeg" style="height:150px; width:150px;">
+        <p>I am Harshita goyal from Karnal, Haryana. I am currently studying in Chitkara University persuing Software Engineering. In this unit, I am aiming for distinction grade and will try to achieve it.</p>
+      </div>
+      <div class="column right">
+        <h2>Activity 1- IOT Apps</h2>
+        <p>
+          An iot application is a prebuilt software service that is used to connect different iot devices together on internet.It provide users an interface to control, record and store data of the devices.
+          Collective network of devices connected to Internet.It is a technology that facilitates communication between devices.
+        </p>
+        <h4>Main Features needed: </h4>
+        <ul>
+          <li>Sensing</li>
+          <li>Connectivity</li>
+          <li>Data Processing, storage and security</li>
+          <li>User Interface</li>
+        </ul>
+        <h4>Examples of IOT Applications:</h4>
+        <ul>
+          <li>Google smart home</li>
+          <li>Arduino IOT remote</li>
+          <li>IP security cameras</li>
+          <li>Fitness tracking Applications</li>
+          <li>Xiaomi remote controller</li>
+        </ul>
+        <h2>Activity 2- Smart Building</h2>
+        <p>
+          Smart stands for ‘Self Monitoring Analysis and Reporting Technology”.Smart devices are the devices which are equipped with positioning and communication technologies.These are integrated into a communication network.
+        </p>
+        <h4>Main Features needed: </h4>
+        <ol>
+          <li>Machine Learning</li>
+          <li>Artificial Intelligence</li>
+          <li>Data sensing through sensors</li>
+          <li>CLoud computing and storage</li>
+          <li>Connectivity of devices with internet</li>
+        </ol>
+        <h4>Smart buulding scenarios: </h4>
+        <ol>
+          <li>Automatic Doors with motion sensors</li>
+          <li>Face recognition attendance system</li>
+          <li>Motion sensing escalators</li>
+          <li>Automatic Temperature controlling(HVAC)</li>
+        </ol>
+        <h2>Activity 3- Control Interface</h2>
+        <p>
+          It has been focused on Smart Patient Monitoring System in Hospitals.There are several high-level features of the same like Bi-directional: Processes information, both to and from user, Security policies and Web APIs. Doctors, hospital staff, attendees and patients are the users of this smart system.
+          The parts needed are: Room temperature sensor,Oximeter, Blood Pressure sensor, Face & fingerprint recognition automatic door for attendees and many more.
+        </p>
+      </div>
+    </div>
+    <div class="three">
+      <h3>THANK YOU!!</h3>
+    </div>
+  </body>
+</html> 
